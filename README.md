@@ -37,8 +37,7 @@ git clone https://github.com/jadabau/TidyData-Project.git cd TidyData-Project
 - `pandas`
 - `matplotlib`
 - `seaborn`
-- `LabelEncoder`, 'OneHotEncoder'
-- IsolationForest
+- `LabelEncoder`
 
 3. **Launch the notebook**
 jupyter notebook Bautista_Tidy Data Project.ipynb
