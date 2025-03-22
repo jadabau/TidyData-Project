@@ -26,9 +26,7 @@ This dataset is sourced from a structured version of Olympic records (2008) prov
 4. **Lollipop Chart**: Top 10 sports with the most medals  
 
 ## Pivot Table
-Summarized medal counts by sport and gender:
-```python
-df.pivot_table(index="sport", columns="gender", values="medal", aggfunc="count")
+Summarized medal counts by sport and gender
 
 ## How to Run This Notebook
 
