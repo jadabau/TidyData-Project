@@ -31,7 +31,7 @@ Summarized medal counts by sport and gender
 ## How to Run This Notebook
 
 1. **Clone the repository**
-git clone https://github.com/yourusername/TidyData-Project.git cd TidyData-Project
+git clone https://github.com/jadabau/TidyData-Project.git cd TidyData-Project
 
 2. **Install the required dependencies**
 - `pandas`
